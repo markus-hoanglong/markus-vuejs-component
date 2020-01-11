@@ -1,0 +1,27 @@
+{
+  "name": "vue-components",
+  "version": "2.0.1",
+  "description": "VueJS Components",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/markus.hoanglong/vue-components.git"
+  },
+  "keywords": [
+    "VueJS",
+    "Component",
+    "Vue Component"
+  ],
+  "author": "markus.hoanglong <markus.hoanglong@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/markus.hoanglong/vue-components/issues"
+  },
+  "homepage": "https://gitlab.com/markus.hoanglong/vue-components#readme",
+  "dependencies": {
+    "lodash": "^4.17.15"
+  }
+}
